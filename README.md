@@ -1,2 +1,2 @@
 # BCG1
-BCG Data Science &amp; Analytics Virtual Experience Program
+## BCG Data Science and Analytics Virtual Experience Program
